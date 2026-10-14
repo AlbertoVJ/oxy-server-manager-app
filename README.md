@@ -1,6 +1,6 @@
 # Oxy Server Manager
 
-**Organiza tus servidores de Minecraft desde un panel para Windows.** Cada instancia conserva por separado su mundo, mods, configuración y respaldos.
+**Organiza tus servidores de Minecraft desde un panel para Windows.** Cada instancia conserva por separado su mundo, mods, configuración y respaldos. Hosteado por ti mismo muy fácilmente!
 
 **[Descargar y probar](https://github.com/AlbertoVJ/oxy-server-manager-app/releases/latest/download/OxyServerManager-Windows-x64.zip)** · [Guía rápida](GUIA.md)
 
