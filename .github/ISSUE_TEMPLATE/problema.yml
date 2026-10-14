@@ -1,0 +1,17 @@
+name: Problema al probar
+description: Cuéntame qué pasó para poder reproducirlo.
+title: "[Problema] "
+body:
+  - type: textarea
+    attributes:
+      label: ¿Qué querías hacer y qué ocurrió?
+      placeholder: Describe los pasos y el mensaje que viste.
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Sistema operativo y versión descargada
+      placeholder: Windows 11 x64, primera edición portátil
+  - type: markdown
+    attributes:
+      value: No incluyas claves, tokens, códigos de conexión ni datos personales en esta consulta pública.
